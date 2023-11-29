@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+
+ double a = 5.67 ;
+
+ double b = 9.38 ;
+
+double result  = (int)a + b;
+
+    printf("%.2lf", result);
+    
+    return 0;
+}
